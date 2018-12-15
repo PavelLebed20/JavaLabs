@@ -1,0 +1,2 @@
+block_size=4
+matr_indexes=2 3 1 0

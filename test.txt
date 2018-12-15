@@ -1,0 +1,8 @@
+Exception detected:
+--------------------------
+File: PermutationCode.java
+Class: PermutationCode
+Method: main
+Line: 18
+Message: KEK
+--------------------------
